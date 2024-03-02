@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div class="container recipe-container">
     <h1 class="recipe-title">Chocolate Chip Cookies</h1>
-    <img class="recipe-image" src={cookies}></img>
+    <img class="recipe-image" src={cookies} alt="cookies"></img>
     <div class="row">
       <div class="col-md-6">
         <h2>Ingredients</h2>
