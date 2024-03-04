@@ -8,9 +8,8 @@
 
 * *Date Created*: 02 Mar 2024
 * *Last Modification Date*: 02 Mar 2024
-* *Lab URL*: https://web.cs.dal.ca/~mashiach/csci3172/lab6/ 
-* *Git URL*: https://git.cs.dal.ca/mashiach/csci3172/-/tree/master/labs/lab6
-
+* *Lab URL*: https://yuval-csci3172-lab6.netlify.app/
+* *Git URL*: https://github.com/yuvalmas/csci3172-lab6
 
 
 ## Authors
